@@ -41,9 +41,13 @@
 
 🛠️ Tech Stack
 🐍 Programming & Databases
+
 <p align="left"> <img src="https://skillicons.dev/icons?i=python,js,mysql,mongodb,firebase" /> </p> <p> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/> </p>
+
 📊 Data Analytics & BI
+
 <p> <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/> <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/> <img src="https://img.shields.io/badge/Power%20Query-742774?style=for-the-badge&logoColor=white"/> <img src="https://img.shields.io/badge/DAX-512BD4?style=for-the-badge&logoColor=white"/> </p>
+
 📈 Exploratory Data Analysis
 📊 KPI Reporting
 📉 Data Visualization
@@ -51,7 +55,9 @@
 📋 Dashboarding
 💼 Business Intelligence
 🤖 Machine Learning & AI
+
 <p align="center"> <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv" /> </p>
+
 🧠 Machine Learning
 Supervised Learning
 Unsupervised Learning
@@ -63,6 +69,7 @@ Random Forest
 XGBoost
 Decision Trees
 K-Means Clustering
+
 🔬 Deep Learning
 CNN
 RNN
@@ -72,7 +79,9 @@ Object Detection
 NLP
 OCR
 🧠 Generative AI & Agentic AI
+
 <div align="center"> <img src="https://img.shields.io/badge/LLMs-7B1FA2?style=for-the-badge&logoColor=white"/> <img src="https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge&logoColor=white"/> <img src="https://img.shields.io/badge/AI%20Agents-00A86B?style=for-the-badge&logoColor=white"/> <img src="https://img.shields.io/badge/Agentic%20AI-1565C0?style=for-the-badge&logoColor=white"/> <img src="https://img.shields.io/badge/MCP-6A1B9A?style=for-the-badge&logoColor=white"/> </div>
+
 🧠 Large Language Models
 🔎 Retrieval-Augmented Generation
 🗃️ Vector Databases
@@ -84,6 +93,9 @@ OCR
 🔗 Agent Orchestration
 🔌 Model Context Protocol
 ⚙️ AI Frameworks & Tools
+
 <p> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logoColor=white"/> <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/> <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/> </p>
+
 📚 Data Science Libraries
+
 <p> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/> <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logoColor=white"/> <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logoColor=white"/> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/> </p>
