@@ -139,13 +139,44 @@ I'm interested in collaborating on:
 
 <div align="center"> <img src="https://streak-stats.demolab.com?user=6Pritam&theme=tokyonight&hide_border=true" /> </div>
 
-🐍 Contribution Activity
 
-<div align="center"> <img src="https://raw.githubusercontent.com/6Pritam/6Pritam/output/github-contribution-grid-snake.svg" /> </div>
+# 🌐 Connect With Me
 
-🌐 Connect With Me
+<div align="center">
 
-<div align="center"> <a href="https://github.com/6Pritam"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="https://www.linkedin.com/in/pritam-kumar-ghosh/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> </div>
+<a href="https://github.com/6Pritam">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/pritam-kumar-ghosh/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:pritamkumarghosg351@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.facebook.com/share/1BUJp3DDXz/">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/pritamghosh983?stkn=dWo5bzkwNG1qcjBv">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://x.com/PGhosh30411">
+<img src="https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/Pritam_Kumar_Ghosh/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://www.hackerrank.com/profile/gpritam1471">
+<img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
+</a>
+
+</div>
 
 <div align="center">
 💭 "Turning Data Into Intelligence, and Intelligence Into Impact."
