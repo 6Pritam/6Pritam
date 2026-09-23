@@ -1,3 +1,5 @@
+<img width="1600" height="480" alt="WhatsApp Image 2026-09-23 at 2 39 18 PM (1)" src="https://github.com/user-attachments/assets/a10646af-d1c7-408b-b14d-2bf733e43dfb" />
+
 <div align="center">
 
 # 👋 Hi, I'm Pritam Kumar Ghosh
