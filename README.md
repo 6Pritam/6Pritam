@@ -1,3 +1,5 @@
+
+```markdown
 <div align="center">
 
 # 👋 Hi, I'm Pritam Kumar Ghosh
@@ -18,145 +20,476 @@
 
 ## 🧑‍💻 About Me
 
-```text
-📊 Data Analyst
-🤖 Machine Learning Engineer
-🧠 AI / Generative AI Enthusiast
-⚙️ Data Engineering Enthusiast
-🐍 Python & SQL Developer
-📈 Power BI & Business Intelligence
-🔎 NLP & Machine Learning
-🚀 Building AI-powered data-driven applications
-🔭 Currently building AI, Machine Learning & Data Analytics projects
-📊 Passionate about transforming raw data into meaningful insights
-🤖 Exploring Generative AI, LLMs, RAG and AI Agents
-🧠 Interested in Machine Learning, Deep Learning and NLP
-⚙️ Learning and building data pipelines, ETL workflows and APIs
-📈 Experienced with Power BI, SQL, Excel and data visualization
-🔬 Interested in AI automation and intelligent systems
-🤝 Open to collaborating on AI, ML, Data Science and Analytics projects
-💬 Ask me about Python, SQL, Power BI, Machine Learning, NLP and Generative AI
-⚡ Fun fact: I enjoy turning data into decisions and ideas into intelligent systems.
+📊 **Data Analyst**  
+🤖 **Machine Learning Engineer**  
+🧠 **AI / Generative AI Enthusiast**  
+⚙️ **Data Engineering Enthusiast**  
+🐍 **Python & SQL Developer**  
+📈 **Power BI & Business Intelligence**  
+🔎 **NLP & Machine Learning**  
+🚀 **Building AI-powered data-driven applications**
 
+- 🔭 Currently building **AI, Machine Learning & Data Analytics projects**
+- 📊 Passionate about transforming **raw data into meaningful insights**
+- 🤖 Exploring **Generative AI, LLMs, RAG and AI Agents**
+- 🧠 Interested in **Machine Learning, Deep Learning and NLP**
+- ⚙️ Learning and building **data pipelines, ETL workflows and APIs**
+- 📈 Experienced with **Power BI, SQL, Excel and data visualization**
+- 🔬 Interested in **AI automation and intelligent systems**
+- 🤝 Open to collaborating on **AI, ML, Data Science and Analytics projects**
+- 💬 Ask me about **Python, SQL, Power BI, Machine Learning, NLP and Generative AI**
+- ⚡ Fun fact: **I enjoy turning data into decisions and ideas into intelligent systems.**
 
-🛠️ Tech Stack
-🐍 Programming & Databases
+---
 
-<p align="left"> <img src="https://skillicons.dev/icons?i=python,js,mysql,mongodb,firebase" /> </p> <p> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/> </p>
+# 🚀 What I Do
 
-📊 Data Analytics & BI
+<table>
+<tr>
 
-<p> <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/> <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/> <img src="https://img.shields.io/badge/Power%20Query-742774?style=for-the-badge&logoColor=white"/> <img src="https://img.shields.io/badge/DAX-512BD4?style=for-the-badge&logoColor=white"/> </p>
+<td width="50%">
 
-📈 Exploratory Data Analysis
-📊 KPI Reporting
-📉 Data Visualization
-🔍 Statistical Analysis
-📋 Dashboarding
-💼 Business Intelligence
-🤖 Machine Learning & AI
+### 📊 Data Analytics
 
-<p align="center"> <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv" /> </p>
+- 🔍 Exploratory Data Analysis
+- 🧮 SQL Analytics
+- 📊 Power BI
+- 📐 DAX
+- 🎯 KPI Reporting
+- 📋 Dashboard Development
+- 📈 Data Visualization
+- 📉 Statistical Analysis
+- 💼 Business Insights
 
-🧠 Machine Learning
-Supervised Learning
-Unsupervised Learning
-Predictive Modeling
-Feature Engineering
-Hyperparameter Tuning
-Model Evaluation
-Random Forest
-XGBoost
-Decision Trees
-K-Means Clustering
+</td>
 
-🔬 Deep Learning
-CNN
-RNN
-LSTM
-Computer Vision
-Object Detection
-NLP
-OCR
-🧠 Generative AI & Agentic AI
+<td width="50%">
 
-<div align="center"> <img src="https://img.shields.io/badge/LLMs-7B1FA2?style=for-the-badge&logoColor=white"/> <img src="https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge&logoColor=white"/> <img src="https://img.shields.io/badge/AI%20Agents-00A86B?style=for-the-badge&logoColor=white"/> <img src="https://img.shields.io/badge/Agentic%20AI-1565C0?style=for-the-badge&logoColor=white"/> <img src="https://img.shields.io/badge/MCP-6A1B9A?style=for-the-badge&logoColor=white"/> </div>
+### 🤖 Machine Learning
 
-🧠 Large Language Models
-🔎 Retrieval-Augmented Generation
-🗃️ Vector Databases
-🤖 AI Agents
-⚡ Agentic AI
-📝 Prompt Engineering
-🔧 Function Calling
-🛠️ Tool Integration
-🔗 Agent Orchestration
-🔌 Model Context Protocol
-⚙️ AI Frameworks & Tools
+- 🧠 Supervised Learning
+- 🔎 Unsupervised Learning
+- 📈 Predictive Modeling
+- ⚙️ Feature Engineering
+- 🎯 Model Evaluation
+- 🔧 Hyperparameter Tuning
+- 📝 NLP
+- 🧠 Deep Learning
+- 👁️ Computer Vision
 
-<p> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logoColor=white"/> <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/> <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/> </p>
+</td>
 
-📚 Data Science Libraries
+</tr>
 
-<p> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/> <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logoColor=white"/> <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logoColor=white"/> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/> </p>
+<tr>
 
-🌱 Currently Learning
-<p align="center"> <img src="https://img.shields.io/badge/Advanced%20LLM%20Engineering-8A2BE2?style=for-the-badge"/> <img src="https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge"/> <img src="https://img.shields.io/badge/AI%20Agents-00C853?style=for-the-badge"/> <img src="https://img.shields.io/badge/MCP-6A1B9A?style=for-the-badge"/> <img src="https://img.shields.io/badge/Data%20Engineering-1565C0?style=for-the-badge"/> <img src="https://img.shields.io/badge/Cloud%20Deployment-0097A7?style=for-the-badge"/> </p>
+<td width="50%">
 
-🧠 Advanced Generative AI
-🔎 Retrieval Systems
-🤖 Agentic AI
-🔌 MCP
-⚙️ Data Engineering
-📊 Advanced Analytics
-☁️ Cloud & Model Deployment
+### 🧠 Generative AI
 
-🤝 Let's Collaborate
+- 💬 LLM Applications
+- 🔎 RAG
+- 🗃️ Vector Databases
+- 🤖 AI Agents
+- ⚡ Agentic AI
+- 📝 Prompt Engineering
+- 🔧 Function Calling
+- 🛠️ Tool Integration
+- 🔗 Agent Orchestration
+
+</td>
+
+<td width="50%">
+
+### ⚙️ Data Engineering
+
+- 🔄 ETL Pipelines
+- 🧹 Data Processing
+- ✅ Data Validation
+- 🗄️ Data Warehousing
+- 🌐 REST APIs
+- ⚡ Data Automation
+- 🚀 Model Deployment
+- 🔧 Workflow Automation
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 🛠️ Tech Stack
+
+## 🐍 Programming & Databases
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,js,mysql,mongodb,firebase" />
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
+
+---
+
+## 📊 Data Analytics & BI
+
+<p>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power%20Query-742774?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/DAX-512BD4?style=for-the-badge&logoColor=white"/>
+</p>
+
+### 📈 Analytics Skills
+
+🔍 Exploratory Data Analysis  
+📊 KPI Reporting  
+📉 Data Visualization  
+🔎 Statistical Analysis  
+📋 Dashboarding  
+💼 Business Intelligence  
+
+---
+
+# 🤖 Machine Learning & AI
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv" />
+</p>
+
+## 🧠 Machine Learning
+
+🔹 Supervised Learning  
+🔹 Unsupervised Learning  
+🔹 Predictive Modeling  
+🔹 Feature Engineering  
+🔹 Hyperparameter Tuning  
+🔹 Model Evaluation  
+🔹 Random Forest  
+🔹 XGBoost  
+🔹 Decision Trees  
+🔹 K-Means Clustering  
+
+## 🔬 Deep Learning
+
+🧠 CNN  
+🔄 RNN  
+⏳ LSTM  
+👁️ Computer Vision  
+🎯 Object Detection  
+📝 NLP  
+📄 OCR  
+
+---
+
+# 🧠 Generative AI & Agentic AI
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/LLMs-7B1FA2?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI%20Agents-00A86B?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Agentic%20AI-1565C0?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/MCP-6A1B9A?style=for-the-badge&logoColor=white"/>
+
+</div>
+
+### 🔥 AI Expertise
+
+🧠 Large Language Models  
+🔎 Retrieval-Augmented Generation  
+🗃️ Vector Databases  
+🤖 AI Agents  
+⚡ Agentic AI  
+📝 Prompt Engineering  
+🔧 Function Calling  
+🛠️ Tool Integration  
+🔗 Agent Orchestration  
+🔌 Model Context Protocol  
+
+---
+
+# ⚙️ AI Frameworks & Tools
+
+<p>
+
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+
+</p>
+
+---
+
+# 📚 Data Science Libraries
+
+<p>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+## 🏨 Atithi Saathi AI
+
+### Full-Stack AI-Powered Hotel Guest Assistant
+
+<div align="center">
+
+`React` → `FastAPI` → `Grok LLM` → `Backend Tools` → `Database` → `React`
+
+</div>
+
+### ✨ Features
+
+💬 Conversational hotel assistant  
+🏨 Hotel discovery  
+🛏️ Room information  
+📅 Room availability  
+🧠 Conversation context  
+🔄 Follow-up questions  
+🔧 AI tool calling  
+🛡️ Deterministic backend logic  
+⚠️ AI failure handling  
+🎨 Dynamic hotel & room cards  
+
+### 🛠️ Technologies
+
+`Python` `FastAPI` `React` `SQLite` `SQLAlchemy` `Grok API` `LLM` `Tool Calling`
+
+---
+
+## 🪪 Government ID Card Information Extraction System
+
+### 🤖 OCR + NLP Based Information Extraction
+
+📄 Structured information extraction from ID cards  
+🔍 OCR-based text extraction  
+🧠 NLP processing  
+🏷️ Named Entity Recognition  
+⚙️ Automated document information extraction  
+
+**Tech:** `Python` `OCR` `NLP` `NER`
+
+---
+
+## 🚨 Weapon Detection & Alert System
+
+### 👁️ Real-Time Computer Vision System
+
+🎥 Real-time object detection  
+🧠 YOLO-based detection  
+📷 OpenCV processing  
+🚨 Automated alert mechanism  
+📱 SMS notification integration  
+🌐 Flask API integration  
+
+**Tech:** `Python` `YOLO` `OpenCV` `Flask` `Twilio API`
+
+---
+
+## 🍕 Pizza Sales Dashboard
+
+### 📊 Business Intelligence & Data Analytics
+
+📈 Sales data analysis  
+🔍 Business trend identification  
+📊 KPI dashboard  
+🧮 SQL and DAX analytics  
+💼 Actionable business insights  
+
+**Tech:** `SQL` `Power BI` `DAX` `Data Analytics`
+
+---
+
+# 💼 Experience
+
+## 🤖 Machine Learning Engineer Intern
+
+### APT Software Avenues Pvt. Ltd.
+
+`Python` `Flask` `NLP` `OCR` `Machine Learning` `Deep Learning`
+
+🧠 Worked on Machine Learning pipelines  
+🔧 Applied feature engineering and preprocessing  
+📊 Evaluated predictive models  
+⚡ Worked with real-time inference  
+🤖 Applied NLP and OCR techniques  
+
+---
+
+## 📊 Data Analyst Intern
+
+### Rinex — Bengaluru
+
+`SQL` `Excel` `Power BI` `Python`
+
+🔍 Performed exploratory data analysis  
+📊 Analyzed business KPIs  
+🧮 Built SQL-powered dashboards  
+📈 Created Power BI visualizations  
+🧹 Worked on data quality and reporting  
+
+---
+
+# 🌱 Currently Learning
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Advanced%20LLM%20Engineering-8A2BE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI%20Agents-00C853?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MCP-6A1B9A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data%20Engineering-1565C0?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Cloud%20Deployment-0097A7?style=for-the-badge"/>
+
+</div>
+
+🧠 Advanced Generative AI  
+🔎 Retrieval Systems  
+🤖 Agentic AI  
+🔌 MCP  
+⚙️ Data Engineering  
+📊 Advanced Analytics  
+☁️ Cloud & Model Deployment  
+
+---
+
+# 🤝 Let's Collaborate
 
 I'm interested in collaborating on:
 
-🤖 Generative AI Projects
-🧠 Machine Learning Projects
-📊 Data Science Projects
-📈 Data Analytics
-⚙️ Data Engineering
-🔎 RAG Applications
-🤖 AI Agent Systems
-🔬 NLP / Computer Vision
-🚀 AI Automation
-💡 Open Source Projects
+🤖 Generative AI Projects  
+🧠 Machine Learning Projects  
+📊 Data Science Projects  
+📈 Data Analytics  
+⚙️ Data Engineering  
+🔎 RAG Applications  
+🤖 AI Agent Systems  
+🔬 NLP / Computer Vision  
+🚀 AI Automation  
+💡 Open Source Projects  
 
-💬 Ask Me About
+---
 
-<p align="center"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/> <img src="https://img.shields.io/badge/Machine%20Learning-F7931E?style=for-the-badge"/> <img src="https://img.shields.io/badge/Generative%20AI-7B1FA2?style=for-the-badge"/> <img src="https://img.shields.io/badge/RAG-FF5722?style=for-the-badge"/> <img src="https://img.shields.io/badge/AI%20Agents-00BCD4?style=for-the-badge"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/NLP-1565C0?style=for-the-badge"/> <img src="https://img.shields.io/badge/Data%20Analytics-2E7D32?style=for-the-badge"/> </p>
-
-📊 GitHub Analytics
-
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=6Pritam&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=6Pritam&layout=compact&theme=tokyonight&hide_border=true" height="180"/> </div>
-
-
-🔥 GitHub Streak
-
-<div align="center"> <img src="https://streak-stats.demolab.com?user=6Pritam&theme=tokyonight&hide_border=true" /> </div>
-
-🐍 Contribution Activity
-
-<div align="center"> <img src="https://raw.githubusercontent.com/6Pritam/6Pritam/output/github-contribution-grid-snake.svg" /> </div>
-
-🌐 Connect With Me
-
-<div align="center"> <a href="https://github.com/6Pritam"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="https://www.linkedin.com/in/pritam-kumar-ghosh/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> </div>
+# 💬 Ask Me About
 
 <div align="center">
-💭 "Turning Data Into Intelligence, and Intelligence Into Impact."
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-F7931E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Generative%20AI-7B1FA2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-FF5722?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI%20Agents-00BCD4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/NLP-1565C0?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data%20Analytics-2E7D32?style=for-the-badge"/>
+
+</div>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=6Pritam&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=6Pritam&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=6Pritam&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 🐍 Contribution Activity
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/6Pritam/6Pritam/output/github-contribution-grid-snake.svg" />
+
+</div>
+
+---
+
+# 🏆 Achievements
+
+🏅 Solved **100+ problems** on HackerRank & LeetCode  
+🏆 Qualified at **University Level — Smart India Hackathon**  
+📊 Built **Data Analytics & Business Intelligence** projects  
+🤖 Built **Machine Learning & AI** applications  
+🧠 Exploring **Generative AI and Agentic AI**
+
+---
+
+# 🎓 Education
+
+### 🎓 Bachelor of Technology — Computer Science Engineering
+
+**GIET University | 2022 – 2026**
+
+---
+
+# 📜 Certifications
+
+🏅 **Data Analytics with Python** — NPTEL  
+🏆 **SQL Gold Level** — HackerRank  
+📊 **NumPy, Pandas, SciPy, Matplotlib & Seaborn**  
+🤖 **Data Science Certification**
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/6Pritam">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/pritam-kumar-ghosh/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭 "Turning Data Into Intelligence, and Intelligence Into Impact."
+
 <br>
 
-Learn → Build → Analyze → Automate → Improve → Repeat 🔁
+**Learn → Build → Analyze → Automate → Improve → Repeat 🔁**
 
 <br>
 
-⭐ Thanks for visiting my profile!
+⭐ **Thanks for visiting my profile!**
 
-</div> ```
-
-
+</div>
