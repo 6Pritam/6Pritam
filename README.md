@@ -41,13 +41,15 @@
 
 
 🛠️ Tech Stack
+
+
 🐍 Programming & Databases
 
-<p align="left"> <img src="https://skillicons.dev/icons?i=python,js,mysql,mongodb,firebase" /> </p> <p> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/> </p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=python,js,mysql,mongodb,firebase" /> </p> <p align="center"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/> </p>
 
 📊 Data Analytics & BI
 
-<p> <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/> <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/> <img src="https://img.shields.io/badge/Power%20Query-742774?style=for-the-badge&logoColor=white"/> <img src="https://img.shields.io/badge/DAX-512BD4?style=for-the-badge&logoColor=white"/> </p>
+<p align="center"> <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/> <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/> <img src="https://img.shields.io/badge/Power%20Query-742774?style=for-the-badge&logoColor=white"/> <img src="https://img.shields.io/badge/DAX-512BD4?style=for-the-badge&logoColor=white"/> </p>
 
 📈 Exploratory Data Analysis
 📊 KPI Reporting
@@ -95,11 +97,11 @@ OCR
 🔌 Model Context Protocol
 ⚙️ AI Frameworks & Tools
 
-<p> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logoColor=white"/> <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/> <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/> </p>
+<p align="center"> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logoColor=white"/> <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/> <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/> </p>
 
 📚 Data Science Libraries
 
-<p> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/> <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logoColor=white"/> <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logoColor=white"/> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/> </p>
+<p align="center"> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/> <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logoColor=white"/> <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logoColor=white"/> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/> </p>
 
 🌱 Currently Learning
 <p align="center"> <img src="https://img.shields.io/badge/Advanced%20LLM%20Engineering-8A2BE2?style=for-the-badge"/> <img src="https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge"/> <img src="https://img.shields.io/badge/AI%20Agents-00C853?style=for-the-badge"/> <img src="https://img.shields.io/badge/MCP-6A1B9A?style=for-the-badge"/> <img src="https://img.shields.io/badge/Data%20Engineering-1565C0?style=for-the-badge"/> <img src="https://img.shields.io/badge/Cloud%20Deployment-0097A7?style=for-the-badge"/> </p>
@@ -131,9 +133,6 @@ I'm interested in collaborating on:
 
 <p align="center"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/> <img src="https://img.shields.io/badge/Machine%20Learning-F7931E?style=for-the-badge"/> <img src="https://img.shields.io/badge/Generative%20AI-7B1FA2?style=for-the-badge"/> <img src="https://img.shields.io/badge/RAG-FF5722?style=for-the-badge"/> <img src="https://img.shields.io/badge/AI%20Agents-00BCD4?style=for-the-badge"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/NLP-1565C0?style=for-the-badge"/> <img src="https://img.shields.io/badge/Data%20Analytics-2E7D32?style=for-the-badge"/> </p>
 
-📊 GitHub Analytics
-
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=6Pritam&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=6Pritam&layout=compact&theme=tokyonight&hide_border=true" height="180"/> </div>
 
 
 🔥 GitHub Streak
