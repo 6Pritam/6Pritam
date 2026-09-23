@@ -1,4 +1,4 @@
-<img width="1600" height="480" alt="WhatsApp Image 2026-09-23 at 2 39 18 PM (1)" src="https://github.com/user-attachments/assets/a10646af-d1c7-408b-b14d-2bf733e43dfb" />
+![logo](https://github.com/6Pritam/6Pritam/blob/main/WhatsApp%20Image%202026-09-23%20at%202.39.18%20PM%20(1).jpeg)
 
 <div align="center">
 
